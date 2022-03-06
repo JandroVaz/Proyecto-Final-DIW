@@ -1,0 +1,45 @@
+/* :root {
+    --bs-secondary-rgb: rgb(255,255,0)!important;
+} */
+
+#carouselExampleControlsNoTouching {
+    box-shadow: 0px 5px 10px 10px black;
+    max-width: 800px;
+}
+
+.sabermas {
+    cursor: pointer;
+}
+
+.sabermas:hover {
+    background-color: lightgray !important;
+    color: black !important;
+}
+
+#contenidoSMR{
+    width: 90%;
+}
+
+#prueba {
+    display: none;
+}
+
+#pruebaSMR {
+    display: none;
+}
+
+#navlink:hover{
+    color:blue;
+}
+
+.bg-header{
+    background-color: lightgrey!important;
+}
+
+.nav li:hover{
+    background-color: lightslategray;
+}
+
+.email{
+    color: lightblue;
+}
